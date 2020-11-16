@@ -22,8 +22,6 @@ Paypal: paypal.me/tulituvlad <br/>
 
 Website: theviciousgames.com
 
-Website: theviciousgames.com
-
 
 
 
