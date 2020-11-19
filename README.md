@@ -20,7 +20,7 @@ If you want to help:
 Paypal: paypal.me/tulituvlad <br/>
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/tulituvlad)
 
-Landing page: https://theviciousgames.com/android-apps/s20-advanced-lockscreen/
+Landing page: https://theviciousgames.com/android-apps/s20-advanced-lockscreen/ <br/>
 Website: https://theviciousgames.com
 
 
