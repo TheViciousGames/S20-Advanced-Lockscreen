@@ -10,36 +10,52 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="S20 Advanced\nLockscreen"
+        android:text="@string/S20AdvancedLockscreen"
         android:layout_centerHorizontal="true"
         android:textSize="25sp"
         android:textColor="#ffff"
         android:textAlignment="center"
         android:textStyle="bold"
         />
-    <TextView
-        android:id="@+id/title"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="48Hz\nLockscreen"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="200dp"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        android:textColor="#ffff"
-        android:textAlignment="center"/>
 
-    <androidx.appcompat.widget.AppCompatToggleButton
-        android:id="@+id/lowRefreshRateToggleButton"
-        android:layout_width="120dp"
+
+    <TextView
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/title"
+        android:text="@string/website"
+        android:textColor="#fff"
+        android:textSize="16sp"
+        android:fontFamily="@font/press_start_2p"
+        android:textStyle="bold"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:textOff="OFF"
-        android:textOn="ON"
+        android:textAlignment="center"
         />
 
+    <Button
+        android:id="@+id/goToWebsite"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:text="@string/website"
+        android:textColor="#fff"
+        android:fontFamily="@font/press_start_2p"
+        android:textStyle="bold"
+        android:background="#7C0071"
+        />
 
+    <TextView
+        android:id="@+id/statusWarningTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:text="@string/statusWarning"
+        android:textAlignment="center"
+        android:textColor="#FFB20A"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        />
 
 </RelativeLayout>

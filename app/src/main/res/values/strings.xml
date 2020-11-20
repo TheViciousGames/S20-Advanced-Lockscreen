@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">S20AdvancedLockscreen</string>
+    <string name="S20AdvancedLockscreen">S20 Advanced\nLockscreen</string>
+    <string name="fourtyHzLockscreen">48Hz\nLockscreen</string>
+    <string name="OFF">OFF</string>
+    <string name="ON">ON</string>
+    <string name="website">PRESS HERE\n\ntheviciousgames.com</string>
+    <string name="statusWarning">Refresh rate will be switched to 48 while screen is off\nNo additional action needed.\nYou can block the notification and forget about it!</string>
+
+
 </resources>
